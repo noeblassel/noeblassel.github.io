@@ -28,7 +28,7 @@ url: https://noeblassel.github.io # the base hostname & protocol for your site, 
 github_username:  noeblassel
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
 
