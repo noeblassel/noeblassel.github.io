@@ -7,20 +7,20 @@ params:
     profileMode:
         enabled: true
         title: Noé Blassel's homepage
-        subtitle: "This is subtitle"
+        subtitle: This is subtitle
         imageUrl: photo.png
         imageTitle: Picture of Noé
         imageWidth: 150 # custom size
         imageHeight: 150 # custom size
         buttons:
             - name: Research
-            url: archive
+                url: archive
             - name: Teaching
-            url: teaching
-            -name: CV
-            url: cv.pdf
-            -name: Posts
-            url: posts
+                url: teaching
+            - name: CV
+                url: cv.pdf
+            - name: Posts
+                url: posts
 
     socialIcons: # optional
         - name: github
