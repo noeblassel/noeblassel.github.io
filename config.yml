@@ -14,20 +14,20 @@ params:
         imageHeight: 150 # custom size
         buttons:
             - name: Research
-                url: archive
+              url: /archive
             - name: Teaching
-                url: teaching
+              url: /teaching
             - name: CV
-                url: cv.pdf
+              url: cv.pdf
             - name: Posts
-                url: posts
+              url: /posts
 
     socialIcons: # optional
         - name: github
-            url: https://github.com/noeblassel
+          url: https://github.com/noeblassel
         - name: linkedin
-            url: https://www.linkedin.com/in/noe-blassel-758085146/
+          url: https://www.linkedin.com/in/noe-blassel-758085146/
         - name : strava
-            url: https://www.strava.com/athletes/100599984
+          url: https://www.strava.com/athletes/100599984
 
     defaultTheme: auto
