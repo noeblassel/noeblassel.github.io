@@ -14,13 +14,13 @@ params:
         imageHeight: 150 # custom size
         buttons:
             - name: Research
-              url: /archive
+              url: research
             - name: Teaching
-              url: /teaching
+              url: teaching
             - name: CV
               url: cv.pdf
             - name: Posts
-              url: /posts
+              url: posts
 
     socialIcons: # optional
         - name: github
