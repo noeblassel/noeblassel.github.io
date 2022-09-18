@@ -1,4 +1,4 @@
 baseURL = 'https://noeblassel.github.io/'
 languageCode = 'en-us'
-title = 'Homepage for Noé Blassel'
+title = "Noé Blassel's homepage"
 theme = "paper"
