@@ -1,0 +1,33 @@
+baseURL : https://noeblassel.github.io/
+languageCode : en-us
+title : Noé Blassel's homepage
+theme : paper
+
+params:
+    profileMode:
+        enabled: true
+        title: Noé Blassel's homepage
+        subtitle: "This is subtitle"
+        imageUrl: photo.png
+        imageTitle: Picture of Noé
+        imageWidth: 150 # custom size
+        imageHeight: 150 # custom size
+        buttons:
+            - name: Research
+            url: "/archive"
+            - name: Teaching
+            url: "/teaching"
+            -name: CV
+            url: "cv.pdf"
+            -name: Posts
+            url: "/posts"
+
+    socialIcons: # optional
+        - name: github
+            url: https://github.com/noeblassel
+        - name: linkedin
+            url: https://www.linkedin.com/in/noe-blassel-758085146/
+        - name : strava
+            url: https://www.strava.com/athletes/100599984
+
+    defaultTheme: auto
