@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Noé Blassel&#39;s homepage</title>
-    <link>https://noeblassel.github.io/</link>
-    <description>Recent content on Noé Blassel&#39;s homepage</description>
+    <title>Noé Blassel</title>
+    <link>https://noeblassel.github.io/index.json</link>
+    <description>Recent content on Noé Blassel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 12:40:32 +0200</lastBuildDate><atom:link href="https://noeblassel.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research</title>
-      <link>https://noeblassel.github.io/pages/research/</link>
-      <pubDate>Sun, 18 Sep 2022 12:40:32 +0200</pubDate>
-      
-      <guid>https://noeblassel.github.io/pages/research/</guid>
-      <description>About Noé&amp;rsquo;s research&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://noeblassel.github.io/pages/about/</link>
-      <pubDate>Sun, 18 Sep 2022 12:39:53 +0200</pubDate>
-      
-      <guid>https://noeblassel.github.io/pages/about/</guid>
-      <description>About Noé&amp;hellip;</description>
-    </item>
-    
+    <copyright>© Noé Blassel 2022,</copyright><atom:link href="https://noeblassel.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,33 +1,72 @@
-baseURL : https://noeblassel.github.io/
-languageCode : en-us
-title : Noé Blassel's homepage
-theme : paper
+baseURL: https://noeblassel.github.io
+languageCode: en-us
+title: Noé Blassel
+theme: paper
+env: production
+copyright: © Noé Blassel 2022,
+enableEmoji: true
+outputs:
+  home:
+    - JSON
+    - RSS
+    - HTML
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: ":us:"
+    profileMode:
+      enabled: true
+      title: "Noé Blassel"
+      subtitle: "PhD Student in Applied Mathematics / Computational Statistical Physics"
+      imageURL: /photo.png
+      imageWidth: 400
+      imageHeight: 400
+      buttons:
+        - name: Posts
+          url: /posts
+        - name: Research
+          url: /research
+        - name: Archives
+          url: /archives
+    menu:
+      main:
+        - name: Research
+          url: /research/
+          weight: 1
+        - name: Teaching
+          url: /teaching/
+          weight: 2
+        - name: About Me
+          url: /about/
+          weight: 3
+        - name: Contact
+          url: /contact/
+          weight: 5
+        - name: Posts
+          url: /posts/
+          weight: 6
 
 params:
-    profileMode:
-        enabled: true
-        title: Noé Blassel's homepage
-        subtitle: This is subtitle
-        imageUrl: photo.png
-        imageTitle: Picture of Noé
-        imageWidth: 150 # custom size
-        imageHeight: 150 # custom size
-        buttons:
-            - name: Research
-              url: research
-            - name: Teaching
-              url: teaching
-            - name: CV
-              url: cv.pdf
-            - name: Posts
-              url: posts
-
-    socialIcons: # optional
-        - name: github
-          url: https://github.com/noeblassel
-        - name: linkedin
-          url: https://www.linkedin.com/in/noe-blassel-758085146/
-        - name : strava
-          url: https://www.strava.com/athletes/100599984
-
-    defaultTheme: auto
+  displayFullLangName: true
+  owner: Noé Blassel
+  disableSpecial1stPost: true
+  ShowReadingTime: true
+  ShowToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  comments: true
+  socialIcons:
+    - name: Github
+      url: https://github.com/noeblassel
+    - name: Work
+      url: https://cermics-lab.enpc.fr/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/noe-blassel-758085146/
+    - name: Strava
+      url: https://www.strava.com/athletes/100599984
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      footnote: true
