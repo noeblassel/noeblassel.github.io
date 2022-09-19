@@ -1,7 +1,7 @@
 baseURL: https://noeblassel.github.io
 languageCode: en-us
 title: Noé Blassel
-theme: paper
+theme: PaperMod
 env: production
 copyright: Noé Blassel 2022,
 enableEmoji: true
@@ -19,8 +19,8 @@ languages:
       title: "Noé Blassel"
       subtitle: "PhD Student in Applied Mathematics / Computational Statistical Physics"
       imageURL: /photo.png
-      imageWidth: 400
-      imageHeight: 400
+      imageWidth: 89
+      imageHeight: 149
       buttons:
         - name: Posts
           url: /posts
@@ -48,7 +48,7 @@ languages:
 
 params:
   displayFullLangName: true
-  owner: Noé Blassel
+  name: Noé Blassel
   disableSpecial1stPost: true
   ShowReadingTime: true
   ShowToc: true
