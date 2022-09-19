@@ -23,14 +23,14 @@ languages:
       imageHeight: 447
     menu:
       main:
-        - name: Research
-          url: /research/
-          weight: 1
-        - name: Teaching
-          url: /teaching/
-          weight: 2
         - name: About Me
           url: /about/
+          weight: 1
+        - name: Research
+          url: /research/
+          weight: 2
+        - name: Teaching
+          url: /teaching/
           weight: 3
         - name: Posts
           url: /posts/
@@ -40,10 +40,10 @@ params:
   displayFullLangName: true
   name: Noé Blassel
   disableSpecial1stPost: true
-  ShowReadingTime: true
-  ShowToc: true
+  ShowReadingTime: false
+  ShowToc: false
   TocOpen: false
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowPostNavLinks: true
   comments: true
   socialIcons:
