@@ -21,13 +21,6 @@ languages:
       imageURL: /photo.jpg
       imageWidth: 416
       imageHeight: 447
-      buttons:
-        - name: Posts
-          url: /posts
-        - name: Research
-          url: /research
-        - name: Archives
-          url: /archives
     menu:
       main:
         - name: Research
@@ -39,12 +32,9 @@ languages:
         - name: About Me
           url: /about/
           weight: 3
-        - name: Contact
-          url: /contact/
-          weight: 5
         - name: Posts
           url: /posts/
-          weight: 6
+          weight: 4
 
 params:
   displayFullLangName: true
