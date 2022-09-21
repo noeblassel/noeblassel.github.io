@@ -1,6 +1,6 @@
 baseURL: https://noeblassel.github.io
 languageCode: en-us
-title: Noé Blassel
+title: Home
 theme: PaperMod
 env: production
 copyright: Noé Blassel 2022,
@@ -38,7 +38,7 @@ languages:
 
 params:
   displayFullLangName: true
-  name: Noé Blassel
+  name: Home
   disableSpecial1stPost: true
   ShowReadingTime: false
   ShowToc: false
