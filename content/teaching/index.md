@@ -1,4 +1,4 @@
 ---
 ---
 
-I will be teaching a group of first year student at École des Ponts a course on Probability, from November 2022-January 2023. Course material and information can be found [here](https://cermics.enpc.fr/~alfonsi/Proba1A.html).
+I will be teaching a course on Probability to a group of first year students at École des Ponts (third year undergraduates), from November 2022-January 2023. A description of the course can be found [here](http://gede.enpc.fr/programme/fiche.aspx?param=M%3a1PROB), and course material can be found on Aurélien Alfonsi's homepage [here](http://cermics.enpc.fr/~alfonsi/Proba1A.html).
