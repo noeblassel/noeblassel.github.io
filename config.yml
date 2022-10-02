@@ -34,7 +34,7 @@ languages:
           weight: 3
         - name: Posts
           url: /posts/
-          weight: 5
+          weight: 4
 
 params:
   displayFullLangName: true
