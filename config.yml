@@ -55,8 +55,6 @@ params:
       url: https://www.linkedin.com/in/noe-blassel-758085146/
     - name: StackOverflow
       url: https://stackoverflow.com/users/9479826/noe-blassel
-    - name: Strava
-      url: https://www.strava.com/athletes/100599984
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
