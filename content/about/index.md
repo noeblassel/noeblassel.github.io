@@ -9,7 +9,7 @@ Previously, I completed a [MSc / M2](https://www.lpsm.paris/masters/modale/index
 
 I then completed a [MSc / M2](https://www.ljll.math.upmc.fr/MathModel/index_en.html) in Numerical analysis and PDEs, also at Sorbonne Université. My research internship, _(Non)-equilibrium molecular dynamics and a Norton method for the estimation of transport coefficients_, took place at CERMICS with Gabriel Stoltz, and the resulting report can be found [here](/rapport_stage.pdf).
 
-A PDF version can be found [here](/cv.pdf).
+A PDF version of my resume can be found [here](/cv.pdf).
 
 # Broader Interests
 
