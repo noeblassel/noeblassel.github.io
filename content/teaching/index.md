@@ -7,3 +7,7 @@ First-year course at École des Ponts ParisTech (third year undergraduates). A d
 ### Scientific Computing (Spring 2023)
 
 First-year course at École des Ponts. The course material can be found [here](https://jfbarthelemy.github.io/Cours_ENPC_pratique_calcul_scientifique/) (slides, notes and Jupyter notebooks in Julia).
+
+### Mathematics in action (Fall 2023)
+
+First-year warm-up classes in Mathematics and Python for scientific computing. Material can be found on a [GitHub repo](https://github.com/GabrielStoltz/MACT).
