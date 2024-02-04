@@ -1,5 +1,5 @@
 # Publications / Preprints
-- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2023 (*Journal of Statistical Physics*) [[ArXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),[DOI](https://doi.org/10.1007/s10955-024-03230-x)]
+- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* [[ArXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),[DOI](https://doi.org/10.1007/s10955-024-03230-x)]
 # Talks / Scientific outreach
 
 - Workshop: Implementing Dissipative Particle Dynamics in Molly (12/2022, [Jupyter notebook](../outreach/molly_workshop.ipynb))
