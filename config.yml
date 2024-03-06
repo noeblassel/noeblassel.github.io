@@ -46,6 +46,7 @@ params:
   ShowBreadCrumbs: false
   ShowPostNavLinks: true
   comments: true
+  avatarURL: /photo.jpg
   socialIcons:
     - name: Github
       url: https://github.com/noeblassel
