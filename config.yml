@@ -50,8 +50,6 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/noeblassel
-    - name: work
-      url: https://cermics-lab.enpc.fr/
     - name: linkedin
       url: https://www.linkedin.com/in/noe-blassel-758085146/
     - name: stackoverflow
