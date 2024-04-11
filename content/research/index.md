@@ -9,4 +9,4 @@
 - [MCM2023](https://mcm2023.sciencesconf.org/) conference on Monte-Carlo methods and applications in Paris. Talk on Norton dynamics. (06/2023), [slides](../outreach/mcm_2023.pdf)
 - [SINEQ Summer School 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia): hands-on session on Parallel Replica dynamics. (09/2023), [GitHub](https://github.com/noeblassel/SINEQSummerSchool2023), [notebook](../outreach/par_rep.ipynb)
 - [SINEQ Summer School 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia): Computing transport coefficients in Molly. (09/2023), [slides](../outreach/slides_anr_sineq_2023.html)
-- [Data-driven Materials Informatics, 2024](https://www.imsi.institute/activities/data-driven-materials-informatics/): How to find good metastable states? (04/2024), [slides](../outreach/imsi_2024.pdf), [video](https://youtube.com/watch?v=9NNgoWPUR50)
+- [Spring Long Program at IMSI, 2024](https://www.imsi.institute/activities/data-driven-materials-informatics/): How to find good metastable states? (04/2024), [slides](../outreach/imsi_2024.pdf), [video](https://youtube.com/watch?v=9NNgoWPUR50)
