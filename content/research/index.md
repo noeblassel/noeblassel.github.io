@@ -11,3 +11,5 @@
 - [SINEQ Summer School 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia): Computing transport coefficients in Molly. (09/2023), [slides](../outreach/slides_anr_sineq_2023.html)
 - [Spring Long Program at IMSI, 2024, Chicago](https://www.imsi.institute/activities/data-driven-materials-informatics/): How to find good metastable states? (04/2024), [slides](../outreach/imsi_2024.pdf), [video](https://youtube.com/watch?v=9NNgoWPUR50)
 - [PASC 2024, Zürich](https://pasc24.pasc-conference.org/): Fixing the flux with Molly.jl (06/2024) [slides](../outreach/slides_pasc_2024.html)
+- [Journées de Probabilités 2024, Bordeaux](https://indico.math.cnrs.fr/event/11353/): Sharp spectral asymptotics for metastable diffusions trapped in
+a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
