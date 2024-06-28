@@ -14,3 +14,4 @@
 - [Journées de Probabilités 2024, Bordeaux](https://indico.math.cnrs.fr/event/11353/): Sharp spectral asymptotics for metastable diffusions trapped in
 a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
 - [Kinetic Equations, Mathematical Physics and Probability, BCAM, Bilbao](https://www.bcamath.org/events/kemap/en/): Sharp spectral asymptotics for metastable diffusions trapped in moving domains (06/2024) [slides](../outreach/bilbao_2024.pdf)
+- [CERMICS Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/): Sharp spectral asymptotics for metastable diffusions trapped in moving domains (06/2024) [slides](../outreach/slides_cermics.pdf)
