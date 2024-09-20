@@ -1,3 +1,8 @@
+# Themes
+- Nonequilibrium statistical physics.
+- Metastability in diffusion processes.
+- Shape optimization for PDEs.
+
 # Publications / Preprints
 - *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* [Preprint: [ArXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),Paper: [DOI](https://doi.org/10.1007/s10955-024-03230-x)]
 # Talks / Scientific outreach
