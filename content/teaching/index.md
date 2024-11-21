@@ -1,6 +1,6 @@
 ---
 ---
-### Probability Theory (Winter 2022, Winter 2023)
+### Probability Theory (Winter 2022, Winter 2023, Winter 2024)
 
 First-year course at École des Ponts ParisTech (third year undergraduates). A description of the course can be found [here](http://gede.enpc.fr/programme/fiche.aspx?param=M%3a1PROB). Course material can be found on Aurélien Alfonsi's homepage [here](http://cermics.enpc.fr/~alfonsi/Proba1A.html), [here](../teaching/tp_simu.ipynb) is a Jupyter notebook about sampling techniques for common types of random variables, and [here](../teaching/tp_mc.ipynb) is a Jupyter notebook about the Monte-Carlo method.
 
@@ -10,4 +10,5 @@ First-year course at École des Ponts. The course material can be found [here](h
 
 ### Mathematics in action (Fall 2023)
 
-First-year warm-up classes in Mathematics and Python for scientific computing. Material can be found on a [GitHub repo](https://github.com/GabrielStoltz/MACT).
+First-year warm-up classes in Mathematics and Python for scientific computing at École des Ponts. Material can be found on a [GitHub repo](https://github.com/GabrielStoltz/MACT).
+
