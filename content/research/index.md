@@ -20,4 +20,4 @@
 a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
 - [Kinetic Equations, Mathematical Physics and Probability, BCAM, Bilbao](https://www.bcamath.org/events/kemap/en/): Sharp spectral asymptotics for metastable diffusions trapped in moving domains (06/2024) [slides](../outreach/bilbao_2024.pdf)
 - [CERMICS Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/): Sharp spectral asymptotics for metastable diffusions trapped in moving domains (06/2024) [slides](../outreach/slides_cermics.pdf)
-- [GAMM-MOANSI ANNUAL MEETING 2024](https://moansi.wixsite.com/gamm/2024): Sharp spectral asymptotics for metastable diffusions in temperature-dependent traps. [slides](../outreach/slides_moansi_2024.html)
+- [GAMM-MOANSI ANNUAL MEETING 2024](https://moansi.wixsite.com/gamm/2024): Sharp spectral asymptotics for metastable diffusions in temperature-dependent traps. (11/24) [slides](../outreach/slides_moansi_2024.html)
