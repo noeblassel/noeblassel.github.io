@@ -4,7 +4,8 @@
 - Shape optimization for PDEs.
 
 # Publications / Preprints
-- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* [Preprint: [ArXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),Paper: [DOI](https://doi.org/10.1007/s10955-024-03230-x)]
+- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* [Preprint: [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),Paper: [DOI](https://doi.org/10.1007/s10955-024-03230-x)]
+- *Sharp low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains*, Noé Blassel, Tony Lelièvre & Gabriel Sotltz, 2025 [Preprint: [arXiv](https://arxiv.org/abs/2501.16082)]
 # Talks / Scientific outreach
 
 - Workshop: Implementing Dissipative Particle Dynamics in Molly (12/2022, [Jupyter notebook](../outreach/molly_workshop.ipynb))
