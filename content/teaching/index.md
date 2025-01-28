@@ -5,7 +5,7 @@
 
 ### Probability Theory (Winter 2022, Winter 2023, Winter 2024), 75h total
 Lectures and exercice sessions in Probability theory.
-First-year course at École des Ponts ParisTech (third year undergraduates). A description of the course can be found [here](http://gede.enpc.fr/programme/fiche.aspx?param=M%3a1PROB). Course material can be found on  [Aurélien Alfonsi's homepage](http://cermics.enpc.fr/~alfonsi/Proba1A.html). [Here]() is a Jupyter notebook about sampling techniques for common types of random variables, and [here](../teaching/tp_mc.ipynb) is a Jupyter notebook about the Monte-Carlo method.
+First-year course at École des Ponts ParisTech (third year undergraduates). A description of the course can be found [here](http://gede.enpc.fr/programme/fiche.aspx?param=M%3a1PROB). Course material can be found on  [Aurélien Alfonsi's homepage](http://cermics.enpc.fr/~alfonsi/Proba1A.html). [Here](../teaching/tp_simu.ipynb) is a Jupyter notebook about sampling techniques for common types of random variables, and [here](../teaching/tp_mc.ipynb) is a Jupyter notebook about the Monte-Carlo method.
 Here are a few problem sets I wrote and assigned, with solutions (in French): [P1](../teaching/DM1.pdf),[P2](../teaching/DM2.pdf),[P3](../teaching/DM3.pdf).
 
 ### Practical Scientific Computing (Spring 2023, Spring 2024), 36h total
