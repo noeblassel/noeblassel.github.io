@@ -26,3 +26,6 @@ Workshop on implementing new methods in [Molly.jl](https://github.com/JuliaMolSi
 
 ### SINEQ Summer school (Summer 2023)
 Hands-on session on accelerated molecular dynamics at the [SINEQ summer school 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia). Code for hands-on sessions is available on a [GitHub repo](https://github.com/noeblassel/SINEQSummerSchool2023).
+
+### CECAM Summer school (Summer 2025)
+Hans-on session on computing transport coefficients with Molly.jl at the [CECAM summer school](https://www.cecam.org/workshop-details/summer-school-on-sampling-high-dimensional-probability-measures-with-applications-in-nonequilibrium-molecular-dynamics-and-statistics-1448). Code for hands-on sessions is available on the [Github repo](https://github.com/shiva-darshan/CECAMSummerSchool2025).
