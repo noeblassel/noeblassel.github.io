@@ -6,7 +6,7 @@
 # Publications / Preprints
 - *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* [Preprint: [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),Paper: [DOI](https://doi.org/10.1007/s10955-024-03230-x), [Code](https://github.com/noeblassel/NortonMethod)]
 - *Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2025 [Preprint: [arXiv](https://arxiv.org/abs/2501.16082), [HAL](https://hal.science/hal-04917900v1)]
-- *Shape optimization of metastable states*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2025 [Preprint: [arXiv](https://arxiv.org/abs/2507.12575), [HAL](https://hal.science/hal-05168622), [Code](https://github.com/noeblassel/sosad), [Data](https://zenodo.org/records/15727493)]
+- *Shape optimization of metastable states*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2025 [Preprint: [arXiv](https://arxiv.org/abs/2507.12575), [HAL](https://hal.science/hal-05168622v1), [Code](https://github.com/noeblassel/sosad), [Data](https://zenodo.org/records/15727493)]
 # Talks / Scientific outreach
 
 - Workshop: Implementing Dissipative Particle Dynamics in Molly (12/2022, [Jupyter notebook](../outreach/molly_workshop.ipynb))
