@@ -1,6 +1,6 @@
 baseURL: https://noeblassel.github.io
 languageCode: en-us
-title: Home
+title: Noé Blassel's homepage
 theme: gokarna
 env: production
 copyright: Noé Blassel 2022,
@@ -19,8 +19,8 @@ languages:
       title: "Noé Blassel"
       subtitle: "PhD Student in Applied Mathematics / Computational Statistical Physics"
       imageURL: /photo.jpg
-      imageWidth: 500
-      imageHeight: 500
+      imageWidth: 3971
+      imageHeight: 5122
     menu:
       main:
         - name: About Me
