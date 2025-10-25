@@ -47,6 +47,7 @@ params:
   ShowPostNavLinks: true
   comments: true
   avatarURL: /photo.jpg
+  customHeadHTML: '<link rel="stylesheet" href="/css/custom.css">'
   socialIcons:
     - name: github
       url: https://github.com/noeblassel
