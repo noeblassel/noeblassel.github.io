@@ -1,7 +1,5 @@
 # Themes
-- Nonequilibrium statistical physics.
-- Metastability in diffusion processes.
-- Shape optimization for PDEs.
+I am working on mathematical and algorithmic questions motivated by applications in computational physics, specifically the computation of kinetic properties in molecular systems. My work has focused on properties of metastable and nonequilibrium stochastic dynamics, using tools from both PDE and probability theory, such as semiclassical analysis, shape optimization for eigenvalue problems and constrained SDEs. I am also very interested in the development of numerical methods addressing the challenges of metastability and transport coefficients.
 
 # Publications / Preprints
 - *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* [Preprint: [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),Paper: [DOI](https://doi.org/10.1007/s10955-024-03230-x), [Code](https://github.com/noeblassel/NortonMethod)]
