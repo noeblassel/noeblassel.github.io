@@ -18,7 +18,7 @@ languages:
       enabled: true
       title: "Noé Blassel"
       subtitle: "PhD Student in Applied Mathematics / Computational Statistical Physics"
-      imageURL: /noe.jpg
+      imageURL: /photo.jpg
       imageWidth: 312
       imageHeight: 335
     menu:
