@@ -1,3 +1,5 @@
-.profile-picture img {
-  border-radius: 0 !important;
+.home-about .avatar img {
+  border-radius: 10% !important;
+  height: auto;
+  object-fit: cover;
 }
