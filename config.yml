@@ -47,7 +47,7 @@ params:
   ShowPostNavLinks: true
   comments: true
   avatarURL: /photo.jpg
-  avatarSize: size-l 
+  avatarSize: size-xl 
   customHeadHTML: '<link rel="stylesheet" href="/css/custom.css">'
   socialIcons:
     - name: github
