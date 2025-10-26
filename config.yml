@@ -20,7 +20,7 @@ languages:
       subtitle: "PhD Student in Applied Mathematics / Computational Statistical Physics"
       imageURL: /photo.jpg
       imageWidth: 3971
-      imageHeight: 5122
+      imageHeight: 3971
     menu:
       main:
         - name: About Me
