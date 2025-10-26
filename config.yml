@@ -56,8 +56,6 @@ params:
       url: mailto:noe.blassel@enpc.fr
     - name: linkedin
       url: https://www.linkedin.com/in/noe-blassel-758085146/
-    - name: stackoverflow
-      url: https://stackoverflow.com/users/9479826/noe-blassel
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
