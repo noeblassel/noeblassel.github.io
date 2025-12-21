@@ -1,7 +1,7 @@
 # Academic Status
 
-I am a PhD student in Mathematics at the [CERMICS](https://cermics-lab.enpc.fr/) lab of [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), and am a part of the [MATHERIALS](https://www.inria.fr/en/matherials) INRIA research project. My [PhD project](https://www.theses.fr/en/s343177) aims to study algorithms designed to accelerate the sampling of 
-rare events, such as the transitions between [metastable](https://en.wikipedia.org/wiki/Metastability) configurational states in molecular systems typically encountered in biology or condensed matter physics. This PhD is funded by the [EMC2](https://erc-emc2.eu/) ERC Synergy grant, and my advisors are [Tony Lelievre](https://cermics.enpc.fr/~lelievre/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/).
+I recently defended my PhD thesis in Mathematics at the [CERMICS](https://cermics-lab.enpc.fr/) lab of [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), in the [MATHERIALS](https://www.inria.fr/en/matherials) INRIA research project. My [PhD project](https://www.theses.fr/en/s343177) aimed to study algorithms designed to accelerate the sampling of 
+rare events, such as the transitions between [metastable](https://en.wikipedia.org/wiki/Metastability) configurational states in molecular systems typically encountered in biology or condensed matter physics. My PhD was funded by the [EMC2](https://erc-emc2.eu/) ERC Synergy grant, and my advisors were [Tony Lelievre](https://cermics.enpc.fr/~lelievre/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/). [Here](../phd/presentation.html) are the slides prepared for my defense.
 
 # Resume
 
