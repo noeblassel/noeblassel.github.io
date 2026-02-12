@@ -1,7 +1,13 @@
 # Academic Status
 
-I recently defended my PhD thesis in Mathematics at the [CERMICS](https://cermics-lab.enpc.fr/) lab of [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), in the [MATHERIALS](https://www.inria.fr/en/matherials) INRIA research project. My [PhD project](https://www.theses.fr/en/s343177) aimed to study algorithms designed to accelerate the sampling of 
-rare events, such as the transitions between [metastable](https://en.wikipedia.org/wiki/Metastability) configurational states in molecular systems typically encountered in biology or condensed matter physics. My PhD was funded by the [EMC2](https://erc-emc2.eu/) ERC Synergy grant, and my advisors were [Tony Lelievre](https://cermics.enpc.fr/~lelievre/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/). [Here](../phd/presentation.html) are the slides for my defense, and [here](../phd/phd_thesis.pdf) is my thesis manuscript.
+I am currently a postdoctoral researcher in the [institute of Mathematics of EPFL](https://www.epfl.ch/schools/sb/research/math/) working within the [MatMat](https://matmat.org/) group on data-driven methods in quantum chemistry.
+
+Previously, I defended my PhD thesis in Mathematics at the [CERMICS](https://cermics-lab.enpc.fr/) lab of [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), in the [MATHERIALS](https://www.inria.fr/en/matherials) INRIA research project. My [PhD project](https://www.theses.fr/en/s343177) aimed to study algorithms designed to accelerate the sampling of 
+rare events, such as the transitions between [metastable](https://en.wikipedia.org/wiki/Metastability) configurational states in molecular systems typically encountered in biology or condensed matter physics.
+
+My PhD was funded by the [EMC2](https://erc-emc2.eu/) ERC Synergy grant, and my advisors were [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/).
+
+[Here](../phd/presentation.html) are the slides for my defense, and [here](../phd/phd_thesis.pdf) is my thesis manuscript.
 
 # Resume
 
@@ -11,5 +17,5 @@ I then completed a [MSc / M2](https://www.ljll.math.upmc.fr/MathModel/index_en.h
 
 # Broader scientific interests
 
-I am interested in the field of computational statistical physics and the interface between probability, PDE analysis and dynamical systems. 
+I am broadly interested in the field of computational (in particular statistical) physics and the interface between probability, PDE analysis and dynamical systems. 
 For numerical applications, I enjoy working with the [Julia](https://julialang.org/) programming language, but I am also proficient in C/C++ and Python.
