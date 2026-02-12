@@ -1,6 +1,6 @@
 # Academic Status
 
-I am currently a postdoctoral researcher in the [institute of Mathematics of EPFL](https://www.epfl.ch/schools/sb/research/math/) working within the [MatMat](https://matmat.org/) group on data-driven methods in quantum chemistry.
+I am currently a postdoctoral researcher in the [institute of Mathematics of EPFL](https://www.epfl.ch/schools/sb/research/math/) working within the [MatMat group](https://matmat.org/) on data-driven methods in quantum chemistry.
 
 Previously, I defended my PhD thesis in Mathematics at the [CERMICS](https://cermics-lab.enpc.fr/) lab of [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), in the [MATHERIALS](https://www.inria.fr/en/matherials) INRIA research project. My [PhD project](https://www.theses.fr/en/s343177) aimed to study algorithms designed to accelerate the sampling of 
 rare events, such as the transitions between [metastable](https://en.wikipedia.org/wiki/Metastability) configurational states in molecular systems typically encountered in biology or condensed matter physics.
