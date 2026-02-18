@@ -2,10 +2,18 @@
 I am working on mathematical and algorithmic questions motivated by applications in computational physics, specifically the computation of kinetic properties in molecular systems. My work has focused on properties of metastable and nonequilibrium stochastic dynamics, using tools from both PDE and probability theory, such as semiclassical analysis, shape optimization for eigenvalue problems and constrained SDEs. I am also very interested in the development of numerical methods addressing the challenges of metastability and transport coefficients.
 
 # Publications / Preprints
+
+<div class="reverse">
+
 - *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* [Preprint: [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515),Paper: [DOI](https://doi.org/10.1007/s10955-024-03230-x), [Code](https://github.com/noeblassel/NortonMethod)]
 - *Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2025 [Preprint: [arXiv](https://arxiv.org/abs/2501.16082), [HAL](https://hal.science/hal-04917900v1)]
 - *Shape optimization of metastable states*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2025 [Preprint: [arXiv](https://arxiv.org/abs/2507.12575), [HAL](https://hal.science/hal-05168622v1), [Code](https://github.com/noeblassel/sosad), [Data](https://zenodo.org/records/15727493)]
+
+</div>
+
 # Talks / Scientific outreach
+
+<div class="reverse">
 
 - Workshop: Implementing Dissipative Particle Dynamics in Molly (12/2022, [Jupyter notebook](../outreach/molly_workshop.ipynb))
 - Meeting of [ANR SINEQ](https://sites.google.com/view/aleiac/anr-sineq). Presentation on Norton dynamics. (12/2022, [slides](../outreach/slides_anr_sineq_2022.pdf))
@@ -29,3 +37,5 @@ a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
 - ["Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics" CECAM Summer School](https://www.cecam.org/workshop-details/summer-school-on-sampling-high-dimensional-probability-measures-with-applications-in-nonequilibrium-molecular-dynamics-and-statistics-1448) at University of Birmingham: Fixing the flux, a dual approach to computing transport coefficients. (07/25) [slides](../outreach/cecam2025.html)
 - [ANR SINEQ final conference](https://sites.google.com/view/sineq-finalconference/), L'Aquila. A Dual Approach to Computing Transport Coefficients. (10/2025) [slides](../outreach/slides_aquila_2025.html)
 - "Stochastic algorithms" working group at CERMICS, Champs-Sur-Marne. (01/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/gtamd_rnn.html)
+
+</div>
