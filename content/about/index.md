@@ -2,10 +2,10 @@
 
 I am currently a postdoctoral researcher in the [institute of Mathematics of EPFL](https://www.epfl.ch/schools/sb/research/math/) working within the [MatMat group](https://matmat.org/) on data-driven methods in quantum chemistry.
 
-Previously, I defended my PhD thesis in Mathematics at the [CERMICS](https://cermics-lab.enpc.fr/) lab of [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), in the [MATHERIALS](https://www.inria.fr/en/matherials) INRIA research project. My [PhD project](https://www.theses.fr/en/s343177) aimed to study algorithms designed to accelerate the sampling of 
+Previously, I defended my Ph.D. thesis in Mathematics at the [CERMICS](https://cermics-lab.enpc.fr/) lab of [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), in the [MATHERIALS](https://www.inria.fr/en/matherials) INRIA research project. My [PhD project](https://www.theses.fr/en/s343177) aimed to study algorithms designed to accelerate the sampling of 
 rare events, such as the transitions between [metastable](https://en.wikipedia.org/wiki/Metastability) configurational states in molecular systems typically encountered in biology or condensed matter physics.
 
-My PhD was funded by the [EMC2](https://erc-emc2.eu/) ERC Synergy grant, and my advisors were [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/).
+My Ph.D. was funded by the [EMC2](https://erc-emc2.eu/) ERC Synergy grant, and my advisors were [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/). My thesis [won](http://smai.emath.fr/spip.php?article977&lang=fr) the 2025 [SMAI-GAMNI](http://smai.emath.fr/spip.php?article163&lang=fr) prize, a national award for Ph.D. theses in applied mathematics.
 
 [Here](../phd/presentation.html) are the slides for my defense, and [here](../phd/phd_thesis.pdf) is my thesis manuscript.
 
