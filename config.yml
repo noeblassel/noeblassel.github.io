@@ -48,7 +48,12 @@ params:
   comments: true
   avatarURL: /photo.jpg
   avatarSize: size-xl 
-  customHeadHTML: '<link rel="stylesheet" href="/css/custom.css">'
+  customHeadHTML: |
+    <link rel="stylesheet" href="/css/custom.css">
+    <script>
+    MathJax = {tex: {inlineMath: [['$','$'],['\\(','\\)']],displayMath: [['$$','$$'],['\\[','\\]']]}};
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   socialIcons:
     - name: github
       url: https://github.com/noeblassel
@@ -61,5 +66,14 @@ markup:
   goldmark:
     extensions:
       footnote: true
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - $$
+              - $$
+          inline:
+            - - $
+              - $
     renderer:
       unsafe: true
