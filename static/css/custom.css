@@ -1,3 +1,8 @@
+.reverse ul {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
 .home-about .avatar img {
   border-radius: 10% !important;
   height: auto;
