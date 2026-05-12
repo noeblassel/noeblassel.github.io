@@ -5,7 +5,7 @@ I am working on mathematical and algorithmic questions motivated by applications
 
 <div class="reverse">
 
-- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics*. [DOI](https://doi.org/10.1007/s10955-024-03230-x), [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515), , [Code](https://github.com/noeblassel/NortonMethod)
+- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics*. [DOI](https://doi.org/10.1007/s10955-024-03230-x), [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515), [Code](https://github.com/noeblassel/NortonMethod)
 - *Shape optimization of metastable states*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2026, *Mathematical Models and Methods in Applied Sciences*. [DOI](https://doi.org/10.1142/S0218202526500405), [arXiv](https://arxiv.org/abs/2507.12575), [HAL](https://hal.science/hal-05168622), [Code](https://github.com/noeblassel/sosad), [Data](https://zenodo.org/records/15727493)
 
 </div>
