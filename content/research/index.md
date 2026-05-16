@@ -5,8 +5,9 @@ I am working on mathematical and algorithmic questions motivated by applications
 
 <div class="reverse">
 
-- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics*. [DOI](https://doi.org/10.1007/s10955-024-03230-x), [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515), [Code](https://github.com/noeblassel/NortonMethod)
-- *Shape optimization of metastable states*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2026, *Mathematical Models and Methods in Applied Sciences*. [DOI](https://doi.org/10.1142/S0218202526500405), [arXiv](https://arxiv.org/abs/2507.12575), [HAL](https://hal.science/hal-05168622), [Code](https://github.com/noeblassel/sosad), [Data](https://zenodo.org/records/15727493)
+- *Fixing the flux: A dual approach to computing transport coefficients*, Noé Blassel & Gabriel Stoltz, 2024, *Journal of Statistical Physics* , vol. **191**, no. 17. [DOI](https://doi.org/10.1007/s10955-024-03230-x), [arXiv](https://arxiv.org/abs/2305.08224), [HAL](https://hal.science/hal-04099515), [Code](https://github.com/noeblassel/NortonMethod)
+- *Shape optimization of metastable states*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2026, to appear in *Mathematical Models and Methods in Applied Sciences*. [DOI](https://doi.org/10.1142/S0218202526500405), [arXiv](https://arxiv.org/abs/2507.12575), [HAL](https://hal.science/hal-05168622), [Code](https://github.com/noeblassel/sosad), [Data](https://zenodo.org/records/15727493)
+- *Overdamped limits for Langevin dynamics with position-dependent coefficients via $L^2$-hypocoercivity*, Noé Blassel, 2026, to appear in *Stochastic Processes and Applications*. [DOI](https://doi.org/10.1016/j.spa.2026.104995), [arXiv](https://arxiv.org/abs/2602.16924), [HAL](https://hal.science/hal-05522402)
 
 </div>
 
@@ -15,7 +16,6 @@ I am working on mathematical and algorithmic questions motivated by applications
 <div class="reverse">
 
 - *Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains*, Noé Blassel, Tony Lelièvre & Gabriel Stoltz, 2025. [arXiv](https://arxiv.org/abs/2501.16082), [HAL](https://hal.science/hal-04917900)
-- *Overdamped limits for Langevin dynamics with position-dependent coefficients via $L^2$-hypocoercivity*, Noé Blassel, 2026. [arXiv](https://arxiv.org/abs/2602.16924), [HAL](https://hal.science/hal-05522402)
 - *Mathematical analysis and numerical methods for the computation of transport coefficients in molecular dynamics*, Noé Blassel, Louis Carillo, Shiva Darshan, Raphaël Gastaldello, Alessandra Iacobucci, Elisa Marini, Régis Santet, Xiaocheng Shang, Gabriel Stoltz, Urbain Vaes, 2026. [arXiv](https://arxiv.org/abs/2605.10507), [HAL](https://hal.science/hal-05619533), [Code](https://github.com/shiva-darshan/CECAMSummerSchool2025)
 
 </div>
