@@ -10,7 +10,7 @@ Here are a few problem sets I wrote and assigned, with solutions (in French): [P
 
 ### Practical Scientific Computing (Spring 2023, Spring 2024), 36h total
 Lectures and practical sessions in numerical analysis and scientific computing using Julia.
-First-year course at École des Ponts. The course material can be found [here](https://jfbarthelemy.github.io/Cours_ENPC_pratique_calcul_scientifique/) (slides, notes and Jupyter notebooks in Julia).
+First-year course at École des Ponts. The course material can be found [here](https://enpc-casc.codeberg.page/) (slides, notes and Jupyter notebooks in Julia).
 
 ### Mathematics in action (Fall 2023), 12h total
 Practical sessions in mathematics and scientific computing using Python.
@@ -18,6 +18,10 @@ First-year warm-up classes at École des Ponts. Course material can be found on 
 
 ### Project supervision (Fall-Winter 2023), 15h total
 Paris Applied Mathematics Semester (PAMS) project of Alfonso Mateos Vicente at École des Ponts ParisTech, titled **Integrative approaches to simulating random variables, Hamiltonian dynamics and Markov chains**. The resulting code and report are available on a [GitHub repo](https://github.com/AlffonsoMV/PAMSProject).
+
+## At the graduate level
+### MSc internship supervision (April-September 2026)
+Gap year internship of Maël Mauduit (ENPC). Subject: **Error-informed Gaussian processes to predict ground-state properties**.
 
 ## At the PhD / research level
 
