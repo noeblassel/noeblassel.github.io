@@ -46,5 +46,6 @@ a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
 - ["Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics" CECAM Summer School](https://www.cecam.org/workshop-details/summer-school-on-sampling-high-dimensional-probability-measures-with-applications-in-nonequilibrium-molecular-dynamics-and-statistics-1448) at University of Birmingham: Fixing the flux, a dual approach to computing transport coefficients. (07/25) [slides](../outreach/cecam2025.html)
 - [ANR SINEQ final conference](https://sites.google.com/view/sineq-finalconference/), L'Aquila. A Dual Approach to Computing Transport Coefficients. (10/2025) [slides](../outreach/slides_aquila_2025.html)
 - "Stochastic algorithms" working group at CERMICS, Champs-Sur-Marne. (01/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/gtamd_rnn.html)
+- ["Analysis and simulation of quantum and molecular systems"]() workshop, RWTH, Aachen. (05/2026) Shape-sensitive spectral asymptotics for overdamped Langevin dynamics. [slides](../outreach/slides_aachen.html)
 
 </div>
