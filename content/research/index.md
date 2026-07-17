@@ -20,6 +20,10 @@ I am working on mathematical and algorithmic questions motivated by applications
 
 </div>
 
+# Software
+
+I am one of the main developers of the [`POPSRegression.jl`](https://pops-uq.github.io/POPSRegression.jl/) package. Research codes for my numerical work are available on my [github](https://github.com/noeblassel). 
+
 # Talks / Scientific outreach
 
 <div class="reverse">
