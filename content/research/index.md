@@ -22,7 +22,7 @@ I am working on mathematical and algorithmic questions motivated by applications
 
 # Software
 
-I am one of the main developers of the [`POPSRegression.jl`](https://pops-uq.github.io/POPSRegression.jl/) package. Research codes for my numerical work are available on my [github](https://github.com/noeblassel). 
+I am one of the main contributors to the [`POPSRegression.jl`](https://pops-uq.github.io/POPSRegression.jl/) package. Research codes for my numerical work are available on my [github](https://github.com/noeblassel).
 
 # Talks / Scientific outreach
 
@@ -52,5 +52,6 @@ a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
 - "Stochastic algorithms" working group at CERMICS, Champs-Sur-Marne. (01/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/gtamd_rnn.html)
 - ["Analysis and simulation of quantum and molecular systems"](https://sfb1481.rwth-aachen.de/news-events/events/analysis-and-simulation-of-quantum-and-molecular-systems) workshop, RWTH, Aachen. (05/2026) Shape-sensitive spectral asymptotics for overdamped Langevin dynamics. [slides](../outreach/slides_aachen.html)
 - ["New ideas in molecular dynamics" minisymposium, SCICADE 2026](https://easychair.org/smart-program/SciCADE2026/), University of Edinburgh. (06/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/scicade2026.html)
+- [Eccomas](../outreach/eccomas2026.html)
 
 </div>
