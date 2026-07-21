@@ -24,34 +24,38 @@ I am working on mathematical and algorithmic questions motivated by applications
 
 I am one of the main contributors to the [`POPSRegression.jl`](https://pops-uq.github.io/POPSRegression.jl/) package. Research codes for my numerical work are available on my [github](https://github.com/noeblassel).
 
-# Talks / Scientific outreach
+
+# Invited talks and teaching in research schools
+<div class="reverse">
+- [SINEQ Summer School 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia): hands-on session on Parallel Replica dynamics. (09/2023), [GitHub](https://github.com/noeblassel/SINEQSummerSchool2023), [notebook](../outreach/par_rep.ipynb)
+- [SINEQ Summer School 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia): Computing transport coefficients with Molly. (09/2023), [slides](../outreach/slides_anr_sineq_2023.html)
+- [PASC 2024, Zürich](https://pasc24.pasc-conference.org/): Fixing the flux with Molly.jl (06/2024) [slides](../outreach/slides_pasc_2024.html)
+- [Kinetic Equations, Mathematical Physics and Probability, BCAM, Bilbao](https://www.bcamath.org/events/kemap/en/): Sharp spectral asymptotics for metastable diffusions trapped in moving domains (06/2024) [slides](../outreach/bilbao_2024.pdf)
+- Presentation to the [Mathematics for Materials Modelling group](https://matmat.org/) at EPFL: Shape-optimization of metastable timescales. (04/25) [slides](../outreach/lausanne_2025.html)
+- Workshop "QSD and applications" at CERMICS: Shape-optimization of metastable timescales. (05/25) [slides](../outreach/qsd_cermics_2025.html)
+- ["Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics" CECAM Summer School](https://www.cecam.org/workshop-details/summer-school-on-sampling-high-dimensional-probability-measures-with-applications-in-nonequilibrium-molecular-dynamics-and-statistics-1448) at University of Birmingham: Fixing the flux, a dual approach to computing transport coefficients. (07/25) [slides](../outreach/cecam2025.html)
+- [CECAM Summer School in Birmingham](https://www.cecam.org/workshop-details/summer-school-on-sampling-high-dimensional-probability-measures-with-applications-in-nonequilibrium-molecular-dynamics-and-statistics-1448): hands-on session on computing transport coefficients with Molly (07/25) [repo](https://github.com/shiva-darshan/CECAMSummerSchool2025)
+- [ANR SINEQ final conference](https://sites.google.com/view/sineq-finalconference/), L'Aquila. A Dual Approach to Computing Transport Coefficients. (10/2025) [slides](../outreach/slides_aquila_2025.html)
+- "Stochastic algorithms" working group at CERMICS, Champs-Sur-Marne. (01/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/gtamd_rnn.html)
+- ["New ideas in molecular dynamics" minisymposium, SCICADE 2026](https://easychair.org/smart-program/SciCADE2026/), University of Edinburgh. (06/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/scicade2026.html)
+- [WCCM ECCOMAS 2026](https://wccm-eccomas2026.org), ECCOMAS Olympiads, Munich. (07/2026) Spectral shape optimization and asymptotic analysis of metastability for accelerated MD. [slides](../outreach/eccomas2026.html)
+</div>
+
+# Contributed talks and other scientific outreach
 
 <div class="reverse">
-
 - Workshop: Implementing Dissipative Particle Dynamics in Molly (12/2022, [Jupyter notebook](../outreach/molly_workshop.ipynb))
 - Meeting of [ANR SINEQ](https://sites.google.com/view/aleiac/anr-sineq). Presentation on Norton dynamics. (12/2022, [slides](../outreach/slides_anr_sineq_2022.pdf))
 - CECAM Mixed-Gen [online meetup](https://www.cecam.org/workshop-details/1184) on simulation of transport processes. Poster on Norton dynamics. (12/2022, [poster](../outreach/poster_cecam_2022.pdf))
 - [GAMM 2023, Dresden](https://jahrestagung.gamm-ev.de/) 93d annual meeting in Dresden. Talk on Norton dynamics. (05/2023, [slides](../outreach/gamm_2023.pdf))
 - [MCM2023, Paris](https://mcm2023.sciencesconf.org/) conference on Monte-Carlo methods and applications in Paris. Talk on Norton dynamics. (06/2023), [slides](../outreach/mcm_2023.pdf)
-- [SINEQ Summer School 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia): hands-on session on Parallel Replica dynamics. (09/2023), [GitHub](https://github.com/noeblassel/SINEQSummerSchool2023), [notebook](../outreach/par_rep.ipynb)
-- [SINEQ Summer School 2023](https://sites.google.com/view/aleiac/anr-sineq/summer-school-mol-dyn-on-julia): Computing transport coefficients in Molly. (09/2023), [slides](../outreach/slides_anr_sineq_2023.html)
 - [Spring Long Program at IMSI, 2024, Chicago](https://www.imsi.institute/activities/data-driven-materials-informatics/): How to find good metastable states? (04/2024), [slides](../outreach/imsi_2024.pdf), [video](https://youtube.com/watch?v=9NNgoWPUR50)
-- [PASC 2024, Zürich](https://pasc24.pasc-conference.org/): Fixing the flux with Molly.jl (06/2024) [slides](../outreach/slides_pasc_2024.html)
 - [Journées de Probabilités 2024, Bordeaux](https://indico.math.cnrs.fr/event/11353/): Sharp spectral asymptotics for metastable diffusions trapped in
 a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
-- [Kinetic Equations, Mathematical Physics and Probability, BCAM, Bilbao](https://www.bcamath.org/events/kemap/en/): Sharp spectral asymptotics for metastable diffusions trapped in moving domains (06/2024) [slides](../outreach/bilbao_2024.pdf)
 - [CERMICS Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/): Sharp spectral asymptotics for metastable diffusions trapped in moving domains (06/2024) [slides](../outreach/slides_cermics.pdf)
 - [GAMM-MOANSI ANNUAL MEETING 2024](https://moansi.wixsite.com/gamm/2024): Sharp spectral asymptotics for metastable diffusions in temperature-dependent traps. (11/24) [slides](../outreach/slides_moansi_2024.html)
 - [Todai WINGS program](https://www.u-tokyo.ac.jp/en/academics/wings.html) meetup at École des Ponts: Mathematical Questions in Molecular Dynamics. (02/25) [slides](../outreach/slides_todai.html)
-- Presentation to [MatMat](https://matmat.org/) team at EPFL: Shape-optimization of metastable timescales. (04/25) [slides](../outreach/lausanne_2025.html)
-- Workshop "QSD and applications" at CERMICS: Shape-optimization of metastable timescales. (05/25) [slides](../outreach/qsd_cermics_2025.html)
 - 12th French Biennal of Applied and Industrial Mathematics ([SMAI2025](https://smai2025.math.cnrs.fr/en/)): Shape-optimization of metastable timescales for accelerated sampling of trajectories. (06/25) [slides](../outreach/smai2025.html)
 - ["New trends and applications around generalized Fokker-Planck operators" program](https://genfokkerplanck.sciencesconf.org) at Bernoulli Center, EPFL, Lausanne: Shape-sensitive spectral asymptotics for metastable timescales. [slides](../outreach/bernoulli2025.html)
-- ["Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics" CECAM Summer School](https://www.cecam.org/workshop-details/summer-school-on-sampling-high-dimensional-probability-measures-with-applications-in-nonequilibrium-molecular-dynamics-and-statistics-1448) at University of Birmingham: Fixing the flux, a dual approach to computing transport coefficients. (07/25) [slides](../outreach/cecam2025.html)
-- [ANR SINEQ final conference](https://sites.google.com/view/sineq-finalconference/), L'Aquila. A Dual Approach to Computing Transport Coefficients. (10/2025) [slides](../outreach/slides_aquila_2025.html)
-- "Stochastic algorithms" working group at CERMICS, Champs-Sur-Marne. (01/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/gtamd_rnn.html)
 - ["Analysis and simulation of quantum and molecular systems"](https://sfb1481.rwth-aachen.de/news-events/events/analysis-and-simulation-of-quantum-and-molecular-systems) workshop, RWTH, Aachen. (05/2026) Shape-sensitive spectral asymptotics for overdamped Langevin dynamics. [slides](../outreach/slides_aachen.html)
-- ["New ideas in molecular dynamics" minisymposium, SCICADE 2026](https://easychair.org/smart-program/SciCADE2026/), University of Edinburgh. (06/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/scicade2026.html)
-- [Eccomas](../outreach/eccomas2026.html)
-
 </div>
