@@ -38,7 +38,7 @@ I am one of the main contributors to the [`POPSRegression.jl`](https://pops-uq.g
 - [ANR SINEQ final conference](https://sites.google.com/view/sineq-finalconference/), L'Aquila. A Dual Approach to Computing Transport Coefficients. (10/2025) [slides](../outreach/slides_aquila_2025.html)
 - "Stochastic algorithms" working group at CERMICS, Champs-Sur-Marne. (01/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/gtamd_rnn.html)
 - ["New ideas in molecular dynamics" minisymposium, SCICADE 2026](https://easychair.org/smart-program/SciCADE2026/), University of Edinburgh. (06/2026) Learning quasistationarity diagnostics for accelerated molecular dynamics. [slides](../outreach/scicade2026.html)
-- [WCCM ECCOMAS 2026](https://wccm-eccomas2026.org), ECCOMAS Olympiads, Munich. (07/2026) Spectral shape optimization and asymptotic analysis of metastability for accelerated MD. [slides](../outreach/eccomas2026.html)
+- [WCCM ECCOMAS 2026](https://wccm-eccomas2026.org), ECCOMAS PhD Olympiads, Munich. (07/2026) Spectral shape optimization and asymptotic analysis of metastability for accelerated MD. [slides](../outreach/eccomas2026.html)
 </div>
 
 # Contributed talks and other scientific outreach
