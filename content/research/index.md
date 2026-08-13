@@ -62,5 +62,6 @@ a temperature-dependent domain (06/2024) [slides](../outreach/probas_2024.pdf)
 - 12th French Biennal of Applied and Industrial Mathematics ([SMAI2025](https://smai2025.math.cnrs.fr/en/)): Shape-optimization of metastable timescales for accelerated sampling of trajectories. (06/25) [slides](../outreach/smai2025.html)
 - ["New trends and applications around generalized Fokker-Planck operators" program](https://genfokkerplanck.sciencesconf.org) at Bernoulli Center, EPFL, Lausanne: Shape-sensitive spectral asymptotics for metastable timescales. [slides](../outreach/bernoulli2025.html)
 - ["Analysis and simulation of quantum and molecular systems"](https://sfb1481.rwth-aachen.de/news-events/events/analysis-and-simulation-of-quantum-and-molecular-systems) workshop, RWTH, Aachen. (05/2026) Shape-sensitive spectral asymptotics for overdamped Langevin dynamics. [slides](../outreach/slides_aachen.html)
+- [JuliaCon2026 (JuliaMolSim minisymposium)](https://juliacon.org/2026/), JGU, Mainz. (08/2026) Computing transport coefficients using Molly.jl. [slides](../outreach/juliacon2026.html)
 
 </div>
