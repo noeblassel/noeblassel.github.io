@@ -17,8 +17,7 @@ I am working on mathematical and algorithmic questions motivated by applications
 <div class="reverse">
 
 - *Mathematical analysis and numerical methods for the computation of transport coefficients in molecular dynamics*, Noé Blassel, Louis Carillo, Shiva Darshan, Raphaël Gastaldello, Alessandra Iacobucci, Elisa Marini, Régis Santet, Xiaocheng Shang, Gabriel Stoltz, Urbain Vaes, 2026. [arXiv](https://arxiv.org/abs/2605.10507), [HAL](https://hal.science/hal-05619533), [Code](https://github.com/shiva-darshan/CECAMSummerSchool2025)
-
-- *Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates*, Noé Blassel, 2026. [arXiv](https://arxiv.org/abs/2610.36078), [Code](https://github.com/noeblassel/FlemingViotDiagnostics)
+- *Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates*, Noé Blassel, 2026. [arXiv](https://arxiv.org/abs/2610.36078), [HAL](https://hal.science/hal-05843458v1), [Code](https://github.com/noeblassel/FlemingViotDiagnostics)
 
 </div>
 
